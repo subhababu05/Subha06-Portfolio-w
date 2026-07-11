@@ -1,0 +1,26 @@
+*{
+    margin:0;
+    padding:0;
+}
+.about{
+     height:750px;
+     border:solid 2px;
+     background-color: rgb(6, 6, 60);
+
+}
+h1{
+    text-align:center;
+    margin-top:100px;
+    font-size:60px;
+    color: bisque;
+}
+p{
+    margin-top:40px;
+    margin-left:150px;
+    margin-right:150px;
+    font-size:30px;
+    text-align: center;
+    word-spacing:5px;
+    line-height:1.5;
+    color: azure;
+}
